@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GitanshKumar
 - 👀 I like to explore and learn different technologies
 - 🌱 I’m currently learning C, C++ and pursuing B.tech in CS
+- 🎮 I am also learning UE4 and have a keen interest in developing games
 - 🌲 I’m experienced in Python, ML and MySQL with beginner to intermediate skills
 
 <!---
